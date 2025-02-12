@@ -1,0 +1,5 @@
+*.ttf
+
+GNPS-NIH- NATURALPRODUCTSLIBRARY_processed.json
+GNPS-NIH-NATURALPRODUCTSLIBRARY.mgf
+ms2deepscore_model.pt

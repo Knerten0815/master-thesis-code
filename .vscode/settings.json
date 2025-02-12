@@ -1,0 +1,24 @@
+{
+	"[python]": {
+		"editor.formatOnType": true,
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.rulers": [
+			88
+		], // Black's default line length
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit"
+		}
+	},
+	"jupyter.interactiveWindow.textEditor.executeSelection": true,
+	"jupyter.enableNativeInteractiveWindow": true,
+	"jupyter.askForKernelRestart": false,
+	"python.languageServer": "Pylance",
+	"python.analysis.extraPaths": [
+		"G:/Dokumente/Studium/MMI/Master-Arbeit/Code/ms_chemical_space_explorer/ms_chemical_space_explorer"
+	],
+	"python.analysis.autoImportCompletions": true,
+	"python.analysis.diagnosticMode": "workspace",
+	"python.analysis.typeCheckingMode": "basic",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
