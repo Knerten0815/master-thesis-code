@@ -86,7 +86,7 @@ dependencies:
       - matchms==0.28.2
       - matplotlib==3.7.2
       - mpmath==1.3.0
-      - ms-chemical-space-explorer==0.1.0
+      - git+https://github.com/florian-huber/ms_chemical_space_explorer.git # modified
       - ms2deepscore==2.4.0
       - networkx==3.4.2
       - numba==0.60.0
