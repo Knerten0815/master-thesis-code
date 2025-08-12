@@ -1,6 +1,7 @@
 *.ttf
 pickle/
 data/
+imgs/
 
 GNPS-NIH- NATURALPRODUCTSLIBRARY_processed.json
 GNPS-NIH-NATURALPRODUCTSLIBRARY.mgf
