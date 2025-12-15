@@ -7,7 +7,16 @@ title: Prediction and visualization of molecular substructures using mass spectr
 version: 1.0.0
 doi: 10.13140/RG.2.2.20175.34725
 date-released: '2025-12-15'
-type: mastersthesis
+type: generic
 year: 2025
-month: August
-school: Hochschule Düsseldorf - University of Applied Sciences
+preferred-citation:
+  authors:
+    - family-names: Zielke
+      given-names: Kevin R.
+  title: Prediction and visualization of molecular substructures using mass spectrometry
+  doi: 10.13140/RG.2.2.20175.34725
+  date-released: '2025-12-15'
+  type: mastersthesis
+  year: 2025
+  month: August
+  school: Hochschule Düsseldorf - University of Applied Sciences
