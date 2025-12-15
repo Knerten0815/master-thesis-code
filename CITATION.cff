@@ -8,18 +8,16 @@ title: Prediction and visualization of molecular substructures using mass spectr
 version: 1.0.0
 doi: 10.13140/RG.2.2.20175.34725
 date-released: '2025-12-15'
-type: generic
-year: 2025
 url: "https://github.com/Knerten0815/master-thesis-code/"
+
 preferred-citation:
   type: mastersthesis
   authors:
-  - family-names: Zielke
-    given-names: Kevin R.
-    orcid: "https://orcid.org/0009-0005-4764-9784"
+    - family-names: Zielke
+      given-names: Kevin R.
+      orcid: "https://orcid.org/0009-0005-4764-9784"
   title: Prediction and visualization of molecular substructures using mass spectrometry
   doi: 10.13140/RG.2.2.20175.34725
-  date-released: '2025-12-15'
   year: 2025
-  month: August
+  month: 8
   school: Hochschule Düsseldorf - University of Applied Sciences
